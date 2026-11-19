@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Jonathan
 
-<!--
-**sundqvist/sundqvist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a systems developer based in Gothenburg, Sweden, with more than six years of experience building web applications, integrations and business systems, both frontend and backend.
 
-Here are some ideas to get you started:
+Most of my work has been close to the people who use the systems: public sector e-services, a planning platform used by transport companies, business systems and data warehousing. I enjoy turning a messy real-world process into something clear, tested and easy to maintain, and explaining technical choices to people who aren't developers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+- **Backend:** C#, .NET, ASP.NET Core, REST APIs, Entity Framework, Node.js
+- **Frontend:** Angular, React, TypeScript, Tailwind, accessibility (WCAG)
+- **Data:** SQL Server, PostgreSQL, MongoDB, ETL and data warehousing
+- **Cloud and delivery:** Azure, Azure DevOps, CI/CD, Docker, Terraform
+- **Integration:** Azure Service Bus, SignalR, event-driven architecture
+- **Ways of working:** Scrum and SAFe, requirements and process modelling, architecture decisions
